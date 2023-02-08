@@ -1,2 +1,5 @@
 # Starter Repo
-This repo has everything you need to get started on the program, good luck!
+Task 1 - done!\
+Task 2 - done!\
+Task 3 - done!\
+Task 4 - pending...
